@@ -51,10 +51,6 @@ internal object AntiCoords : PluginModule(
         }
         else {
             return message
-
-
-
-
         }
     }
 
