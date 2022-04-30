@@ -5,8 +5,5 @@
   "authors": [ "MellDa" ],
   "main_class": "com.mellda.AntiCoordinate",
   "min_api_version": "3.0",
-
-
-
   "required_plugins": []
 }
