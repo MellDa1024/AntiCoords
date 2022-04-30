@@ -1,11 +1,12 @@
 {
-  "name": "ExamplePlugin",
+  "name": "AntiCoords",
   "version": "1.0",
-  "description": "Example implementation of a plugin for Lambda.",
-  "url": "https://github.com/lambda-client/ExamplePlugin",
-  "authors": [ "me", "you" ],
-  "main_class": "com.lambda.ExamplePlugin",
+  "description": "Detects Coordinate in your chat and block it from leaking base's coords.",
+  "authors": [ "MellDa" ],
+  "main_class": "com.mellda.AntiCoordinate",
   "min_api_version": "3.0",
-  "mixins": [ "mixins.ExamplePlugin.json" ],
+
+
+
   "required_plugins": []
 }
