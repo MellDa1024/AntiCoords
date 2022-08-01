@@ -1,9 +1,9 @@
 {
   "name": "AntiCoords",
-  "version": "1.0",
+  "version": "1.0.1",
   "description": "Detects Coordinate in your chat and block it from leaking base's coords.",
   "authors": [ "MellDa" ],
   "main_class": "com.mellda.AntiCoordinate",
-  "min_api_version": "3.0",
+  "min_api_version": "3.2",
   "required_plugins": []
 }
